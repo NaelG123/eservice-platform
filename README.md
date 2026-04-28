@@ -10,7 +10,7 @@ Ce projet implémente une plateforme complète de gestion de requêtes administr
 
 ##  *FR* Version Française (English below)
 
-### Fonctionnalités Clés
+### Fonctionnalités 
 
 1.  **Authentification JWT (Sécurité) :** Système sécurisé utilisant **Spring Security** et **JSON Web Tokens (JWT)**.
 2.  **Gestion des Rôles :** Distingue l'accès entre `ROLE_USER` (création/soumission de requêtes) et `ROLE_ADMIN` (approbation/rejet) via l'annotation `@PreAuthorize`.
